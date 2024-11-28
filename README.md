@@ -1,23 +1,64 @@
-<h1 align="center">Hi 👋, I'm Shaik Burhanuddin</h1>
-<h3 align="center">A passionate Devops Engineer from India | Cloud</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burhanuddin-anw&label=Profile%20views&color=0e75b6&style=flat" alt="burhanuddin-anw" /> </p>
+# 👋 Hi, I'm **Burhanuddin Shaik**!
 
-- 👯 I’m looking to collaborate on **kubernetes ,docker,Microsoft Intune as well as cicd pipelines**
+🎯 **Azure DevOps Engineer | Cloud**  
+🌐 Passionate about building robust, scalable, and secure cloud infrastructure.
 
-- 🤝 I’m interested in **Azure Devops , Kubernetes, Terraform**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure Logo" width="100"/>
 
-- 💬 Ask me about **Devops,Docker,Azure**
+---
 
-- 📫 How to reach me **https://www.linkedin.com/in/burhanuddin-shaik-8a463b209/ ,burhanuddin.sk@appnetwise.com**
+</div>
 
-- 📄 Know about my experiences [file:///C:/Users/burhanuddin/Downloads/Burhanuddin.Shaik.Resume.pdf](file:///C:/Users/burhanuddin/Downloads/Burhanuddin.Shaik.Resume.pdf)
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/burhanuddin shaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burhanuddin shaik" height="30" width="40" /></a>
-</p>
+I am an experienced **Azure DevOps Engineer** with around **1 years** of expertise in Azure infrastructure automation, cloud migration, and CI/CD pipeline development. Currently working at **[AppNetWise](https://appnetwise.com/)**, I specialize in creating high-performing, scalable, and secure cloud-native solutions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> </p>
+### 🌟 Key Highlights:
+- Designed and implemented modular **Terraform** configurations and **ARM templates** for Azure resources.
+- Proficient in **Azure Kubernetes Service (AKS)**, container orchestration, **Docker** and microservices architecture.
 
+---
+
+<div align="center">
+
+## 🛠️ Technical Skills
+
+### **Cloud Platforms**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="60" height="60"/> 
+
+### **Infrastructure as Code (IaC)**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="60" height="60"/> 
+
+### **DevOps Tools**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>  
+
+---
+
+## 📚 Education
+ 
+- 🎓 **Bachelor of Technology** in **Information Technology**  
+  Sagi Rama Krishnam Raju Engineering College  (2018–2022)
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-shaik-8a463b209/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/Koti-ANW)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:shaiksohail55149@gmail.com)
+
+---
+
+<div align="center">
+
+**"Striving to automate, optimize, and innovate!"**
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=burhanuddin-anw&theme=green-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddin-anw&layout=compact&theme=radical" alt="Top Languages" />  
+
+</div>
