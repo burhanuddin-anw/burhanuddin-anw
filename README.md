@@ -18,7 +18,9 @@ I am an experienced **Azure DevOps Engineer** with around **2 years** of experti
 ### 🌟 Key Highlights:
 - Designed and implemented modular **Terraform** configurations and **ARM templates** for Azure resources.
 - Proficient in **Azure Kubernetes Service (AKS)**, container orchestration, **Docker** and microservices architecture.
-
+- Automated Kubernetes deployments using **Helm** charts for version-controlled, reusable configurations.
+- Implemented GitOps continuous delivery pipelines using **FluxCD** for automated and declarative deployments.
+- Integrated observability solutions including **Prometheus**, **Grafana**, **ELK**, and **OpenTelemetry**.
 ---
 
 <div align="center">
@@ -26,24 +28,49 @@ I am an experienced **Azure DevOps Engineer** with around **2 years** of experti
 ## 🛠️ Technical Skills
 
 ### **Cloud Platforms**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="60" height="60"/> 
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="60" height="60"/>
+</a>
 
 ### **Infrastructure as Code (IaC)**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="60" height="60"/> 
+<a href="https://www.terraform.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="60" height="60"/>
+</a>
 
 ### **DevOps Tools**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>  
+<a href="https://github.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>
+</a> 
 
 ### **Observability & Monitoring**
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60" height="60"/>  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" alt="Logstash" width="60" height="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="Kibana" width="60" height="60"/>  
+<a href="https://grafana.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="60" height="60"/>
+</a>
+
+<a href="https://prometheus.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60" height="60"/>
+</a>
+
+<a href="https://www.elastic.co/elastic-stack/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="ELK Stack" width="60" height="60"/>
+</a>
+
+<a href="https://opentelemetry.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/static/img/logos/opentelemetry-horizontal-color.png" alt="OpenTelemetry" width="120"/>
+</a>  
 
 
 ---
