@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm **Burhanuddin Shaik**!
 
 🎯 **Azure DevOps Engineer | Cloud**  
@@ -8,8 +6,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure Logo" width="100"/>
 
 ---
-
-</div>
 
 ## 🚀 About Me
 
@@ -21,9 +17,8 @@ I am an experienced **Azure DevOps Engineer** with around **2 years** of experti
 - Automated Kubernetes deployments using **Helm** charts for version-controlled, reusable configurations.
 - Implemented GitOps continuous delivery pipelines using **FluxCD** for automated and declarative deployments.
 - Integrated observability solutions including **Prometheus**, **Grafana**, **ELK**, and **OpenTelemetry**.
----
 
-<div align="center">
+---
 
 ## 🛠️ Technical Skills
 
@@ -72,18 +67,18 @@ I am an experienced **Azure DevOps Engineer** with around **2 years** of experti
   <img src="https://raw.githubusercontent.com/open-telemetry/opentelemetry.io/main/static/img/logos/opentelemetry-horizontal-color.png" alt="OpenTelemetry" width="120"/>
 </a>  
 
-
 ---
 
 ## 📚 Education
  
 - 🎓 **Bachelor of Technology** in **Information Technology**  
-  Sagi Rama Krishnam Raju Engineering College  (2018–2022)
+  Sagi Rama Krishnam Raju Engineering College (2018–2022)
 
 ---
+
 ## 🏅 Certifications
-- [Microsoft Certified: Azure Fundamentals AZ-900](https://www.credly.com/earner/earned/badge/20b0e259-e8ad-4875-957c-725041724d0c) 
-- [Microsoft Certified: Azure Administrator AZ-104](https://www.credly.com/earner/earned/badge/b15af2a5-700a-44d3-b985-0361deb87089)  
+- [Microsoft Certified: Azure Fundamentals AZ-900](https://www.credly.com/earner/earned/badge/20b0e259-e8ad-4875-957c-725041724d0c)  
+- [Microsoft Certified: Azure Administrator AZ-104](https://www.credly.com/earner/earned/badge/b15af2a5-700a-44d3-b985-0361deb87089)
 
 ---
 
@@ -95,11 +90,7 @@ I am an experienced **Azure DevOps Engineer** with around **2 years** of experti
 
 ---
 
-<div align="center">
-
 **"Striving to automate, optimize, and innovate!"**
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=burhanuddin-anw&theme=green-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddin-anw&layout=compact&theme=radical" alt="Top Languages" />  
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanuddin-anw&layout=compact&theme=radical" alt="Top Languages" />
