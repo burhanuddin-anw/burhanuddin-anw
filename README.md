@@ -86,7 +86,7 @@ I am an experienced **Azure DevOps Engineer** with around **2 years** of experti
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burhanuddin-shaik-8a463b209/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/burhanuddin-anw)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:shaiksohail55149@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:burhanuddin.sk@appnetwise.com)
 
 ---
 
