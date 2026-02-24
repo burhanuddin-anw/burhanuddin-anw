@@ -82,8 +82,8 @@ I am an experienced **Azure DevOps Engineer** with around **2 years** of experti
 
 ---
 ## 🏅 Certifications
-[Microsoft Certified: Azure Fundamentals AZ-900](https://www.credly.com/earner/earned/badge/20b0e259-e8ad-4875-957c-725041724d0c) 
-[Microsoft Certified: Azure Administrator AZ-104](https://www.credly.com/earner/earned/badge/b15af2a5-700a-44d3-b985-0361deb87089)  
+- [Microsoft Certified: Azure Fundamentals AZ-900](https://www.credly.com/earner/earned/badge/20b0e259-e8ad-4875-957c-725041724d0c) 
+- [Microsoft Certified: Azure Administrator AZ-104](https://www.credly.com/earner/earned/badge/b15af2a5-700a-44d3-b985-0361deb87089)  
 
 ---
 
