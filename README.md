@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am an experienced **Azure DevOps Engineer** with around **1 years** of expertise in Azure infrastructure automation, cloud migration, and CI/CD pipeline development. Currently working at **[AppNetWise](https://appnetwise.com/)**, I specialize in creating high-performing, scalable, and secure cloud-native solutions.
+I am an experienced **Azure DevOps Engineer** with around **2 years** of expertise in Azure infrastructure automation, cloud migration, and CI/CD pipeline development. Currently working at **[AppNetWise](https://appnetwise.com/)**, I specialize in creating high-performing, scalable, and secure cloud-native solutions.
 
 ### 🌟 Key Highlights:
 - Designed and implemented modular **Terraform** configurations and **ARM templates** for Azure resources.
@@ -36,6 +36,15 @@ I am an experienced **Azure DevOps Engineer** with around **1 years** of experti
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="60" height="60"/>  
+
+### **Observability & Monitoring**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="60" height="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="60" height="60"/>  
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="60" height="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/logstash/logstash-original.svg" alt="Logstash" width="60" height="60"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" alt="Kibana" width="60" height="60"/>  
+
 
 ---
 
